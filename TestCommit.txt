@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, this is a test commit. Slight Tweak.
+=======
+Hello, this is a test commit. Major Tweak.
+>>>>>>> b00a137bf6de28c77626f086f026d8a3f266984e
